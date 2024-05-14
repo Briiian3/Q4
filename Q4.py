@@ -1,10 +1,6 @@
-print ("I'm going to fail")
-unless...   i don't
-
-boom: 
 
 responses = {"hello":"hi there", 
-             "sup": "nothin", 
+             "sup": "nothin much just, y'know", 
              "what's your name":"Brian's bot",
              "how old are you": "I am a robot so I don't have a real age",
              "are you an ai": "no, I'm simply a product of Brian's genius mind and respond how he programmed me to",
@@ -13,11 +9,41 @@ responses = {"hello":"hi there",
              "do you play sports": "bro what... no, you do know I'm a literal bot right. I mean in all concepts of the term - a bot",
              "sorry bro": "we good",
              "I'm sorry": "dw bout it",
-             "do you have any hobbies": "My only hobby is responding to your questions",
+             "do you have any hobbies": "My only hobby is responding to your questions pookie",
              "what are you doing": "Answering your questions silly",
+             "where are you from": "I exist in the realm of Brian's computer, between space and time",
+             "what's your favorite color": "I don't rly have eyes, so that makes it harder to see LMAO",
+             "tell me a joke": "Why don't scientists trust atoms? Because they make up everything! ahahahaha",
+             "what's the meaning of life": "good question! I would tell you but I don't wanna",
+             "tell me something interesting": "a group of flamingos is called a flamboyance, oh yea",
+             "what's the weather like": "I don't have access to real-time weather data, sorry!",
+             "who is your creator": "Brian is my humble and strong creator",
+             "can you sing a song": "whatchu think bruh, ima let you come to that conclusion",
+             "tell me a random fact": "FUN FACT! - A group of crows is called a murder",
+             "what's your favorite food": "can't eat big dawg",
+             "what's your favorite movie": "I don't watch movies, see I don't got no eyes",                
+             "do you like cats or dogs": "Dogs cause that's what master Brian likes",
+             "tell me a story": "Once upon a time, in a land far, far away, there was a bot named Brian... it was awesome - the end",
+             "what's your favorite book": "got no eyes... I feel like we've been over this but maybe that's just me",
+             "are you a morning person": "I don't sleep, so I guess you could say I'm always watching! Teehee!",
+             "how much wood would a woodchuck chuck if a woodchuck could chuck wood": "A woodchuck would chuck as much wood as a woodchuck could chuck if a woodchuck could chuck wood",
+             "what's the speed of light": "The speed of light is approximately 299,792 kilometers per second (miles are studid)",
+             "are we there yet": "... ...there are no stupid questions, there are no stupid questions, there are no stupid question",
+             "tell me a riddle": "What has keys but can't open locks? A piano!",
+             "what's the largest planet in our solar system": "Tge Gas Giant Jupiter is the largest planet in our solar system",
+             "are you smart": "smarter than you fr",
+             "what's your favorite holiday": "Igood question, but there's just one problem... I don't have any physicalexperiences, at all",
+             "do you believe in aliens": "I mean...",
+             "what's the meaning of love": "seeing Brian everyday",
+             "tell me a tongue twister": "Sally sells seashells by the seashore",
+             "what's your favorite song": "damn good question my boy - dunno",
+             "what's your favorite number": "Brian's fav # is 7 just like everybody else so I'll go wit dat too, respectfully",
+             "what's the meaning of happiness": "Happiness is a subjective... I'm just a bot bro",
+             "what's the tallest mountain in the world": "Mount Everest",
+             "what's the capital of Japan": "Tokyo",
+             "do you dream": "I don't sleep, so I don't dream either silly",
+             "what's your favorite language": "I speak Python fluently haha",
              }
-
-
 
 user_input = input(" ")
 user_input = user_input.lower()
